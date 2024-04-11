@@ -1,0 +1,7 @@
+.my-5 .bg-body-tertiary {
+    background-image: url("../img/home-header.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
